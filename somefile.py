@@ -1,2 +1,2 @@
 def hui():
-    print("dick")
+    print("dick hui")
